@@ -1,3 +1,7 @@
+> **Keywords:** Gene Expression | RNA Translation | Mutation Analysis | Python | Data Visualization  | Bioinformatics
+A Python pipeline that transcribes DNA to mRNA, translates it into protein,  
+computes amino-acid composition, and visualizes mutation impact on protein length.
+
 # Gene → mRNA → Protein: Translation, AA Composition, and Mutation Effect (Python)
 
 This project reproduces a classic gene-expression pipeline:
@@ -27,6 +31,3 @@ The script:
 - Exon coordinates are assumed **0-based, end-exclusive**.
 - Stop codons in `code.txt` must be mapped to `X`.
 - Figures are saved to `figures/`.
-
-## Keywords
-Bioinformatics · Gene Expression · Translation · Amino-Acid Composition · Mutation Analysis · Python
